@@ -5,6 +5,7 @@ import { ORDER_SERVICE, envs } from 'src/config';
 
 @Module({
   controllers: [OrdersController],
+  providers: [],
   imports: [
     ClientsModule.register([
       { 

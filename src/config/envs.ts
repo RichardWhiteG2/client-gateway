@@ -35,6 +35,6 @@ export const envs = {
     productMicroserviceHost: envVars.PRODUCTS_MICROSERVICE_HOST,
     productMicroservicePort: envVars.PRODUCTS_MICROSERVICE_PORT,
 
-    ordersMicroserviceHost: envVars.PRODUCTS_MICROSERVICE_HOST,
-    ordersMicroservicePort: envVars.PRODUCTS_MICROSERVICE_PORT,
+    ordersMicroserviceHost: envVars.ORDERS_MICROSERVICE_HOST,
+    ordersMicroservicePort: envVars.ORDERS_MICROSERVICE_PORT,
 }
